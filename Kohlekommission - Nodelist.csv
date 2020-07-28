@@ -1,0 +1,154 @@
+id,name,type,sex,age,party,representation,position,state
+MatthiasPlatzeck,Matthias Platzeck,0,1,4,2,1,1,1
+RonaldPofalla,Ronald Pofalla,0,1,4,1,1,1,2
+BarbaraPraetorius,Barbara Praetorius,0,2,3,7,4,1,10
+StanislawTillich,Stanislaw Tillich,0,1,4,1,1,1,3
+GerdaHasselfeldt,Gerda Hasselfeldt,0,2,4,6,1,2,4
+SteffenKampeter,Steffen Kampeter,0,1,3,1,2,2,2
+StefanKapferer,Stefan Kapferer,0,1,3,4,2,2,5
+DieterKempf,Dieter Kempf,0,1,4,7,2,2,4
+ClaudiaNemat,Claudia Nemat,0,2,3,7,2,2,2
+KatherinaReiche,Katherina Reiche,0,2,2,1,2,2,1
+GundaRoestel,Gunda Roestel,0,2,3,3,2,2,3
+EricSchweitzer,Eric Schweitzer,0,1,3,4,2,2,10
+AntjeGrothus,Antje Grothus,0,2,3,5,5,2,2
+HanneloreWodtke,Hannelore Wodtke,0,2,4,1,5,2,1
+ChristineHerntier,Christine Herntier,0,2,4,7,5,2,1
+MichaelKreuzberg,Michael Kreuzberg,0,1,4,1,5,2,2
+ReinerPriggen,Reiner Priggen,0,1,4,3,5,2,2
+MichaelVassiliadis,Michael Vassiliadis,0,1,3,2,3,2,2
+AndreasScheidt,Andreas Scheidt,0,1,3,2,3,2,2
+StefanKoerzell,Stefan Koerzell,0,1,3,2,3,2,6
+MartinKaiser,Martin Kaiser,0,1,3,7,4,2,9
+HubertWeiger,Hubert Weiger,0,1,4,7,4,2,4
+KaiNiebert,Kai Niebert,0,1,1,7,4,2,7
+JuttaAllmendinger,Jutta Allmendinger,0,2,4,7,6,2,5
+FelixMatthes,Felix Matthes,0,1,3,7,6,2,10
+HansJoachim,Hans Joachim Schellnhuber,0,1,4,7,6,2,4
+AnnekathrinNiebuhr,Annekathrin Niebuhr,0,2,3,7,6,2,8
+RalfWehrspohn,Ralf Wehrspohn,0,1,2,7,6,2,8
+AndreasLaemmel,Andreas Laemmel,0,1,3,1,1,3,3
+AndreasLenz,Andreas Lenz,0,1,1,6,2,3,4
+MatthiasMiersch,Matthias Miersch,0,1,2,2,4,3,7
+ViertesEuParl,Viertes Europaeisches Parlament,1,99,99,99,99,99,99
+ZDFVerwaltungsrat,ZDF Verwaltungsrat,1,99,99,99,99,99,99
+FlughafenBBGmbH,Flughafen Berlin Brandenburg GmbH,1,99,99,99,99,99,99
+DeutschRussischForum,Das Deutsch Russische Forum,1,99,99,99,99,99,99
+Bundestag,Bundestag,1,99,99,99,99,99,99
+GemeinderatWeeze,Gemeinderat Weeze,1,99,99,99,99,99,99
+VerbKommUntern,Verband Kommunaler Unternehmen,1,99,99,99,99,99,99
+AgoraEnergiewende,Agora Energiewende,1,99,99,99,99,99,99
+HTWBerlin,HTW Berlin,1,99,99,99,99,99,10
+BraunkohleUnternMIBRAG,Braunkohle Unternehmen MIBRAG,1,99,99,99,99,99,99
+RatKamenz,Rat des Kreises Kamenz,1,99,99,99,99,99,99
+FrauenUnion,Frauen Union,1,99,99,99,99,99,99
+BundesFinMin,Bundesfinanzministerium,1,99,99,99,99,99,99
+StiftungsratKulturstiftung,Stiftungsrat der Kulturstiftung,1,99,99,99,99,99,99
+KuratoriumDeutscheBundesstiftungUmwelt,Kuratorium der deutschen Bundesstiftung Umwelt,1,99,99,99,99,99,99
+InitiativeMusikGmbH,Initiative Musik GmbH,1,99,99,99,99,99,99
+KulturakademieTarabya,Kulturakademie Tarabya,1,99,99,99,99,99,99
+DeutscheBahnAG,Deutsche Bahn AG,1,99,99,99,99,99,99
+NiedersaeMinWirtschaftArbeitVerkehr,Niedersaechsisches Ministerium fuer Wirtschaft Arbeit und Verkehr,1,99,99,99,99,99,7
+BundesMinGesundheit,Bundesministerium fuer Gesundheit,1,99,99,99,99,99,99
+DeutscheEnergieAgentur,Deutsche Energie Agentur,1,99,99,99,99,99,99
+OrgaWirtschaftlZusammenarbeitEntwicklung,Organisationen fuer Wirtschaftliche Zusammenarbeit und Entwicklung,1,99,99,99,99,99,99
+DATEVeG,DATEVeG,1,99,99,99,99,99,99
+ErnstundYoung,ErnstundYoung,1,99,99,99,99,99,99
+Bitkom,Bitkom,1,99,99,99,99,99,99
+AllianzCybersicherheit,Allianz fuer Cybersicherheit,1,99,99,99,99,99,99
+DsiN,Deutschland sicher im Netz,1,99,99,99,99,99,99
+GVB,Genossenschaftsverband Bayern,1,99,99,99,99,99,4
+DeutscheAG,Deutsche AG,1,99,99,99,99,99,99
+CyberSicherheitsrat,internationaler Cyber Sicherheitsrat,1,99,99,99,99,99,99
+DeutscheMesseAG,Deutsche Messe AG,1,99,99,99,99,99,99
+LanxessAG,Lanxess AG,1,99,99,99,99,99,99
+AirbusSE,Airbus SE,1,99,99,99,99,99,99
+EON,EON,1,99,99,99,99,99,99
+NeueForum,Neue Forum,1,99,99,99,99,99,99
+GelsenwasserAG,Gelsenwasser AG,1,99,99,99,99,99,99
+StadtentwaessDresdenGmbH,Stadtentwaesserung Dresden GmbH,1,99,99,99,99,99,3
+IHKBerlin,IHK Berlin,1,99,99,99,99,99,10
+BDE,BDE,1,99,99,99,99,99,99
+FAED,FAED,1,99,99,99,99,99,99
+RNE,RNE,1,99,99,99,99,99,99
+BerlinPartnerGmbH,Berlin Partner GmbH,1,99,99,99,99,99,10
+TraegervereinESCP,Traegerverein ESCP Europe Wirtschaftshochschule Berlin,1,99,99,99,99,99,10
+KlimaAllianzDeutschland,Klima Allianz Deutschland,1,99,99,99,99,99,99
+StrembergerTuche,Stremberger Tuche,1,99,99,99,99,99,99
+KskKoeln,Kreissparkasse Koeln,1,99,99,99,99,99,2
+ZukunftsagenturRR,Zukunftsagentur Rheinisches Revier,1,99,99,99,99,99,99
+MetropolregionRheinland,Metropolregion Rheinland,1,99,99,99,99,99,99
+ZweckverbNaturparkRheinland,Zweckverband Naturpark Rheinland,1,99,99,99,99,99,99
+LandesverbLippe,Landesverband Lippe,1,99,99,99,99,99,2
+LandtagNrw,Landtag Nordrhein Westfalen,1,99,99,99,99,99,2
+StiftungNeueVerantwortung,Stiftung Neue Verantwortung,1,99,99,99,99,99,99
+IGChemiePapierKeramik,IG Chemie Papier Keramik,1,99,99,99,99,99,99
+EthikkommissionEnergieversorgung,Ethikkommission fuer sichere Energieversorgung,1,99,99,99,99,99,99
+InnovationsforumEnergiewende,Innovationsforum Energiewende,1,99,99,99,99,99,99
+DeutscheAkademieTechnik,Deutsche Akademie der Technikwissenschaft,1,99,99,99,99,99,99
+BonnerAkademieForschungLehre,Bonner Akademie fuer Forschung und Lehre praktischer Politik,1,99,99,99,99,99,2
+InitiativkreisRuhr,InitiativkreisRuhr,1,99,99,99,99,99,99
+CSRForumBundesreg,CSR Forum der Bundesregierung,1,99,99,99,99,99,99
+CAREDeutschland,CARE Deutschland,1,99,99,99,99,99,99
+WuppertalerStadtwerkeGmbH,Wuppertaler Stadtwerke GmbH,1,99,99,99,99,99,2
+AgenturArbeit,Agentur fuer Arbeit,1,99,99,99,99,99,99
+AOKHessen,AOK Hessen,1,99,99,99,99,99,6
+DeutscheRentenversicherung,Deutsche Rentenversicherung,1,99,99,99,99,99,99
+HessischerRundfunk,Hessischer Rundfunk,1,99,99,99,99,99,6
+Greenpeace,Greenpeace,1,99,99,99,99,99,99
+StiftungOekologieLandbau,Stiftung Oekologie und Landbau,1,99,99,99,99,99,99
+BayerischeAkademieLR,Bayerische Akademie laendlicher Raum,1,99,99,99,99,99,4
+BayerischesStaatsminUGV,Bayerisches Staatsministerium fuer Umwelt Gesundheit und Verbraucherschutz,1,99,99,99,99,99,4
+VereinigungDeutscherWissenschaftler,Vereinigung Deutscher Wissenschaftler,1,99,99,99,99,99,99
+DeutscheBundesstiftungUmwelt,Deutsche Bundesstiftung Umwelt,1,99,99,99,99,99,99
+MaxPlanckInstitutBildungsforsch,Max Planck Institut fuer Bildungsforschung,1,99,99,99,99,99,99
+InstitutArbeitsmarktBerufsforsch,Institut fuer Arbeitsmarkt und Berufsforschung,1,99,99,99,99,99,99
+FreieUniBerlin,Freie Universitaet Berlin,1,99,99,99,99,99,10
+EnqueteKommissionNE,Enquete Kommission Nachhaltige Energieversorgung unter den Bedingungen der Globalisierung und Liberalisierung,1,99,99,99,99,99,99
+PotsdamInstitutKlimafolgenforsch,Potsdam Institut fuer Klimafolgenforschung,1,99,99,99,99,99,1
+StockholmRC,Stockholm Resilience Centre,1,99,99,99,99,99,99
+UniPotsdam,Universitaet Potsdam,1,99,99,99,99,99,1
+BundesregGlobaleUmweltveraenderungen,Bundesregierung fuer Globale Umweltveraenderungen,1,99,99,99,99,99,99
+WeltklimaratIPCC,Weltklimarat IPCC,1,99,99,99,99,99,99
+HamburgischesWWArchiv,Hamburgisches Welt Wirtschafts Archiv,1,99,99,99,99,99,99
+MartinLutherUniHW,Martin Luther Universitaet Halle Wittenberg,1,99,99,99,99,99,99
+MaxPlanckInstitutMikrostrukturphysik,Max Planck Institut fuer Mikrostrukturphysik,1,99,99,99,99,99,99
+ZukunftsstiftungSachsenAnhalt,Zukunftsstiftung des Landes Sachsen Anhalt,1,99,99,99,99,99,3
+FrauenhoferSiliziumphotovoltaik,Frauenhofer Center fuer Siliziumphotovoltaik,1,99,99,99,99,99,99
+SmartMembranesGmbH,Smart Membranes GmbH,1,99,99,99,99,99,99
+FrauenhoferPilotanlagenzentrum,Frauenhofer Pilotanlagenzentrum fuer Polymerverarbeitung,1,99,99,99,99,99,99
+FrauenhoferGesellschaft,Frauenhofer Gesellschaft,1,99,99,99,99,99,99
+SaechsischesStaatsminWirtschaftArbeitVerkehr,SaechsischesStaatsministerium fuer Wirtschaft Arbeit und Verkehr,1,99,99,99,99,99,3
+WirtschaftsfoerdSachsenGmbH,Wirtschaftsfoerderung Sachsen GmbH,1,99,99,99,99,99,3
+MittelstandsWirtschaftsvereinigung,Mittelstands und Wirtschaftsvereinigung,1,99,99,99,99,99,99
+JungeUnion,Junge Union,1,99,99,99,99,99,99
+EuropaUnionDeutschland,Europa Union Deutschland,1,99,99,99,99,99,99
+AusschussUmweltNaturschutzReaktorsicherheit,Ausschuss fuer Umwelt Naturschutz und Reaktorsicherheit,1,99,99,99,99,99,99
+ParlBeiratNachhaltigeEntw,Parlamentarischer Beirat fuer nachhaltige Entwicklung,1,99,99,99,99,99,99
+ParlamentskreisMittelstand,Parlamentskreis Mittelstand,1,99,99,99,99,99,99
+UniKiel,Uni Kiel,1,99,99,99,99,99,99
+OekoInstitut,Oeko Institut e V,1,99,99,99,99,99,99
+WissenschaftszentrumSozialforsch,Wissenschaftszentrum Berlin für Sozialforschung,1,99,99,99,99,99,10
+BundUmweltNaturschutz,Bund fuer Umwelt und Naturschutz Deutschland,1,99,99,99,99,99,99
+RatNachhaltigeEntwicklung,Rat fuer Nachhaltige Entwicklung,1,99,99,99,99,99,99
+DeutscherGewerkschaftsverb,Deutscher Gewerkschaftsverbund,1,99,99,99,99,99,99
+Verdi,Vereinte Dienstleistungsgewerkschaft,1,99,99,99,99,99,99
+IGBergbauChemieEnergie,IG Bergbau Chemie Energie,1,99,99,99,99,99,99
+LandesverbEE,Landesverband Erneuerbare Energien NRW eV,1,99,99,99,99,99,2
+DIHT,Deutscher Industrie und Handelskammertag,1,99,99,99,99,99,99
+AlbaGroup,Alba Group,1,99,99,99,99,99,99
+EnBW,EnBW,1,99,99,99,99,99,5
+Verkehrsministerium,Verkehrsministerium,1,99,99,99,99,99,99
+Telekom,Telekom,1,99,99,99,99,99,99
+BundesverbDeutscheIndustrie,Bundesverband der Deutschen Industrie,1,99,99,99,99,99,99
+BundesverbEnergieWasserwirtsch,Bundesverband der Energie und Wasserwirtschaft,1,99,99,99,99,99,99
+BundesverDeutscheArbeitgeberverb,Bundesvereinigung der Deutschen Arbeitgeberverbaende,1,99,99,99,99,99,99
+RotesKreuz,Deutsches Rotes Kreuz,1,99,99,99,99,99,99
+CDU,CDU,1,99,99,1,99,99,99
+FDP,FDP,1,99,99,4,99,99,99
+CSU,CSU,1,99,99,6,99,99,99
+SPD,SPD,1,99,99,2,99,99,99
+DieGruenen,Die Gruenen,1,99,99,3,99,99,99
+Bundeskanzleramt,Bundeskanzleramt,1,99,99,99,99,99,99
+Tierschutzpartei,Tierschutzpartei,1,99,99,5,99,99,99
+Naturschutzring,Dachverband Deutscher Naturschutzring,1,99,99,99,99,99,99
