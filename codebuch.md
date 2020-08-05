@@ -40,7 +40,7 @@ Identische ID wie aus der Edgelist zur Identifikation der Knoten.
 Vollständiger Name der Person/Organsisation
 
 **Type**   
-Person oder Organisation?
+Person oder Organisation? 
 0 = Person  
 1 = Organisation
 
